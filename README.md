@@ -24,4 +24,4 @@ The code is implemented as follows:
  
 The final result:
 
-![final_motion](https://github.com/yadul-man/random-files/blob/main/particles.gif)
+<img src="output/particles.gif">
